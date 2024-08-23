@@ -1,0 +1,1 @@
+TOKEN = "7187919512:AAGNGHN5IdOwrbtnoN61bzhrYoP-e_x53m8"
